@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\RW-ASPNET-EBANXTEST.props" />
-</Project>
